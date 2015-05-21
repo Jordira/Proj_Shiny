@@ -10,4 +10,7 @@
                 Slider Input Widget, and the application will retrain the model with the selected
                 data and change the selected forecast period accordingly. The change in 
                 accuracies in the training and test sets are printed as RMSE on the updated plot.
+## Link:
+                https://jordira.shinyapps.io/Proj_Shiny/
                 
+  
